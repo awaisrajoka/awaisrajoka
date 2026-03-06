@@ -1,22 +1,15 @@
 <div align="center">
 
-```
-░█████╗░░██╗░░░░░░░██╗░█████╗░██╗░██████╗  ██████╗░░█████╗░░░░░░██╗░█████╗░██╗░░██╗░█████╗░
-██╔══██╗░██║░░██╗░░██║██╔══██╗██║██╔════╝  ██╔══██╗██╔══██╗░░░░░██║██╔══██╗██║░██╔╝██╔══██╗
-███████║░╚██╗████╗██╔╝███████║██║╚█████╗░  ██████╔╝███████║░░░░░██║██║░░██║█████═╝░███████║
-██╔══██║░░████╔═████║░██╔══██║██║░╚═══██╗  ██╔══██╗██╔══██║██╗░░██║██║░░██║██╔═██╗░██╔══██║
-██║░░██║░░╚██╔╝░╚██╔╝░██║░░██║██║██████╔╝  ██║░░██║██║░░██║╚█████╔╝╚█████╔╝██║░╚██╗██║░░██║
-╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝░░╚═╝╚═╝╚═════╝  ╚═╝░░╚═╝╚═╝░░╚═╝░╚════╝░░╚════╝░╚═╝░░╚═╝╚═╝░░╚═╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0a0a2e,100:00d4ff&height=200&section=header&text=AWAIS%20RAJOKA&fontSize=60&fontColor=00d4ff&fontAlignY=38&desc=AI%20Engineer%20%7C%20System%20Architect%20%7C%20Business%20Analyst&descAlignY=58&descColor=ffffff&animation=fadeIn&stroke=00d4ff&strokeWidth=1" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=800&lines=%24+sudo+init+awais-rajoka+--mode%3Dfull-stack-ai;%5B+OK+%5D+Loading+AI+Engineer...;%5B+OK+%5D+Loading+System+Architect...;%5B+OK+%5D+Loading+Business+Analyst...;%5B+OK+%5D+Loading+Claude+%2F+Anthropic+Expert...;%5B+OK+%5D+All+systems+operational+%F0%9F%9F%A2;%24+status%3A+BUILDING+THE+FUTURE" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=%5BSYSTEM+BOOT%5D+Initializing+Awais+Rajoka...;%5B+OK+%5D+AI+Engineer+%26+Claude+Expert+loaded;%5B+OK+%5D+System+Architect+online;%5B+OK+%5D+Business+Analyst+active;%5B+OK+%5D+Full+Stack+Developer+ready;%5BSTATUS%5D+Building+the+future+with+AI+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
-![](https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=flat-square&labelColor=000000)
-![](https://img.shields.io/badge/LOCATION-Pakistan-00FF41?style=flat-square&labelColor=000000)
-![](https://img.shields.io/badge/MISSION-AI%20Powered%20Systems-00FF41?style=flat-square&labelColor=000000)
-![](https://img.shields.io/badge/CURRENTLY-Claude%20Code%20%2B%20Agentic%20AI-00FF41?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/STATUS-ONLINE-00d4ff?style=for-the-badge&labelColor=0a0a2e)
+![](https://img.shields.io/badge/BASE-Pakistan-00d4ff?style=for-the-badge&labelColor=0a0a2e)
+![](https://img.shields.io/badge/FOCUS-Agentic%20AI-00d4ff?style=for-the-badge&labelColor=0a0a2e)
+![](https://img.shields.io/badge/MODE-Building-00d4ff?style=for-the-badge&labelColor=0a0a2e)
 
 </div>
 
@@ -24,135 +17,33 @@
 
 <div align="center">
 
-```bash
-┌──(root㉿awaisrajoka)-[~/identity]
-└─$ cat /etc/profile.conf
-```
+### ◈ OPERATOR PROFILE ◈
 
 </div>
 
-```yaml
-# ============================================================
-#              OPERATOR PROFILE — CLASSIFIED
-# ============================================================
-
-identity:
-  name         : "Awais Rajoka"
-  codename     : "The Architect"
-  clearance    : "LEVEL 5 — AI SYSTEMS"
-
-roles:
-  primary      : "🤖 AI Engineer & Claude Expert"
-  secondary    : "🏗️  System Architect"
-  tertiary     : "📊 Business Analyst"
-  quaternary   : "💻 Full Stack Developer"
-
-current_ops:
-  - "Designing Agentic AI systems with Claude & MCP"
-  - "Building AI-powered SaaS products"
-  - "Translating business chaos → clean system architecture"
-  - "Prompt engineering at scale"
-
-philosophy    : "Don't just use AI. Build with it. Think with it. Ship with it."
-contact       : "awaisrajoka276@gmail.com"
-# ============================================================
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║  CODENAME    »  The Architect                                       ║
+║  CLEARANCE   »  LEVEL 5 — AI SYSTEMS                               ║
+║  ROLES       »  AI Engineer · System Architect · BA · Full Stack   ║
+║  PHILOSOPHY  »  Don't just use AI. Build with it. Ship with it.    ║
+║  CONTACT     »  awaisrajoka276@gmail.com                           ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
 <div align="center">
 
-```bash
-┌──(root㉿awaisrajoka)-[~/skills]
-└─$ python3 -c "import awais; print(awais.SkillTree())"
-```
+### ◈ CURRENT OPERATIONS ◈
 
-</div>
-
-```python
-#!/usr/bin/env python3
-# ─────────────────────────────────────────────
-#   AWAIS RAJOKA — SKILL MANIFEST v2.0
-# ─────────────────────────────────────────────
-
-class AwaisRajoka:
-
-    CODENAME = "The Architect"
-
-    def __init__(self):
-
-        self.ai_intelligence = {
-            "Claude / Anthropic" : ["Claude Code", "Claude API", "MCP", "AI Agents", "Tool Use"],
-            "OpenAI / ChatGPT"   : ["GPT-4o", "Embeddings", "Function Calling", "Fine-tuning"],
-            "AI Engineering"     : ["RAG Systems", "LLM Pipelines", "Vector DBs", "Agentic Workflows"],
-            "Prompt Engineering" : ["Chain-of-Thought", "Few-Shot", "Structured Outputs", "Jailbreak Defense"],
-        }
-
-        self.system_architecture = {
-            "Design Patterns"    : ["Microservices", "Event-Driven", "CQRS", "DDD"],
-            "Infrastructure"     : ["AWS", "Docker", "CI/CD", "Serverless", "GitHub Actions"],
-            "Databases"          : ["PostgreSQL", "MongoDB", "Redis", "Pinecone (Vector)"],
-            "API Design"         : ["REST", "GraphQL", "WebSockets", "gRPC"],
-        }
-
-        self.business_analysis = {
-            "Strategy"           : ["Requirements Engineering", "Gap Analysis", "ROI Modeling"],
-            "Process"            : ["BPMN", "User Story Mapping", "Stakeholder Management"],
-            "AI Product"         : ["AI Product Strategy", "LLM Product Design", "MVP Scoping"],
-        }
-
-        self.full_stack = {
-            "Frontend"           : ["React", "Next.js", "TypeScript", "TailwindCSS"],
-            "Backend"            : ["Node.js", "Python", "Express", "FastAPI"],
-            "Mobile"             : ["React Native"],
-        }
-
-        self.superpower = "Bridging the gap between business intent → AI-powered execution"
-
-    def __repr__(self):
-        return f"[{self.CODENAME}] — Turning complex problems into elegant systems 🚀"
-
-# OUTPUT:
-# [The Architect] — Turning complex problems into elegant systems 🚀
-```
-
----
-
-<div align="center">
-
-```bash
-┌──(root㉿awaisrajoka)-[~/arsenal]
-└─$ nmap -sV --script=tech-scan awaisrajoka.systems
-```
-
-</div>
-
-<div align="center">
-
-### 🤖 AI & Intelligence Layer
-![Claude](https://img.shields.io/badge/Claude_Anthropic-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT_OpenAI-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6B35?style=for-the-badge&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Systems-8A2BE2?style=for-the-badge&logoColor=white)
-![AI Agents](https://img.shields.io/badge/Agentic_AI-00FF41?style=for-the-badge&labelColor=000000&color=00FF41)
-
-### 🖥️ Full Stack Arsenal
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### ☁️ Infrastructure & Cloud
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+| ⚡ Operation | 🎯 Status |
+|:---|:---|
+| 🤖 Designing Agentic AI systems with **Claude & MCP** | `ACTIVE` |
+| 🏗️ Building AI-powered SaaS products | `ACTIVE` |
+| 📊 Translating business chaos → clean system architecture | `ACTIVE` |
+| 🔬 Prompt engineering & LLM pipeline optimization | `ACTIVE` |
+| 💡 Open to Consulting · Collabs · AI Product Dev | `OPEN` |
 
 </div>
 
@@ -160,50 +51,65 @@ class AwaisRajoka:
 
 <div align="center">
 
-```bash
-┌──(root㉿awaisrajoka)-[~/metrics]
-└─$ ./fetch_stats.sh --user awaisrajoka --theme matrix
-```
+### ◈ TECH ARSENAL ◈
 
-</div>
+#### 🤖 AI & Intelligence Layer
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=awaisrajoka&show_icons=true&theme=matrix&hide_border=true&count_private=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=awaisrajoka&theme=matrix&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41" height="180"/>
-</div>
+<img src="https://img.shields.io/badge/Anthropic_Claude-191919?style=for-the-badge&logo=anthropic&logoColor=00d4ff" />
+<img src="https://img.shields.io/badge/OpenAI_ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-0a0a2e?style=for-the-badge&logo=openai&logoColor=00d4ff" />
+<img src="https://img.shields.io/badge/RAG_Systems-0a0a2e?style=for-the-badge&logo=elasticsearch&logoColor=00d4ff" />
+<img src="https://img.shields.io/badge/Agentic_AI-0a0a2e?style=for-the-badge&logo=probot&logoColor=00d4ff" />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awaisrajoka&layout=compact&theme=matrix&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=00FF41&langs_count=8" />
-</div>
+#### 💻 Languages & Frameworks
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=awaisrajoka&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=true" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+
+#### ☁️ Cloud & DevOps
+
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+
+#### 🗄️ Databases
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=00d4ff" />
+
+#### 🏗️ Architecture & Business
+
+<img src="https://img.shields.io/badge/System_Design-0a0a2e?style=for-the-badge&logo=diagrams.net&logoColor=00d4ff" />
+<img src="https://img.shields.io/badge/Microservices-0a0a2e?style=for-the-badge&logo=apachekafka&logoColor=00d4ff" />
+<img src="https://img.shields.io/badge/Business_Analysis-0a0a2e?style=for-the-badge&logo=microsoftexcel&logoColor=00d4ff" />
+<img src="https://img.shields.io/badge/AI_Product_Dev-0a0a2e?style=for-the-badge&logo=productboard&logoColor=00d4ff" />
+
 </div>
 
 ---
 
 <div align="center">
 
-```bash
-┌──(root㉿awaisrajoka)-[~/connect]
-└─$ ./establish_connection.sh --target awaisrajoka --encrypt
-```
+### ◈ PERFORMANCE METRICS ◈
 
-```
-[*] Scanning open channels...
-[+] Gmail      .............. OPEN
-[+] LinkedIn   .............. OPEN
-[+] X/Twitter  .............. OPEN
-[+] WhatsApp   .............. OPEN
-[+] GitHub     .............. OPEN
-[*] All channels ready. Initiating handshake...
-```
+<img src="https://github-readme-stats.vercel.app/api?username=awaisrajoka&show_icons=true&hide_border=true&count_private=true&bg_color=0a0a2e&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=awaisrajoka&hide_border=true&background=0a0a2e&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=ffffff&dates=ffffff&currStreakNum=00d4ff&sideNums=00d4ff" height="180"/>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:awaisrajoka276@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/awais-rajoka/)
-[![X](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/awaisrajoka1?s=21&t=NTXVPKtbFeDMfEgRxiXN1A)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/YZ54KCFAYEZ4L1)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/awaisrajoka)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awaisrajoka&layout=compact&hide_border=true&bg_color=0a0a2e&title_color=00d4ff&text_color=ffffff&langs_count=8" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=awaisrajoka&bg_color=0a0a2e&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true&area_color=0a2a4a" />
 
 </div>
 
@@ -211,27 +117,28 @@ class AwaisRajoka:
 
 <div align="center">
 
-```bash
-┌──(root㉿awaisrajoka)-[~]
-└─$ cat /var/log/current_mission.log
-```
+### ◈ OPEN CHANNELS ◈
 
-```
-[2026-03-06 00:00:01] MISSION ACTIVE
-[2026-03-06 00:00:02] Architecting AI-powered systems that solve real problems
-[2026-03-06 00:00:03] Deep diving: Claude Code + MCP + Agentic AI Workflows
-[2026-03-06 00:00:04] Available for: Consulting · Collaborations · Building
-[2026-03-06 00:00:05] Open to: AI Product Dev · System Design · BA Projects
-[2026-03-06 00:00:06] ──────────────────────────────────────────────────────
-[2026-03-06 00:00:07] "The best architects don't just design systems.
-[2026-03-06 00:00:08]  They design outcomes." — Awais Rajoka
-[2026-03-06 00:00:09] ──────────────────────────────────────────────────────
-```
+<a href="mailto:awaisrajoka276@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/awais-rajoka/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://x.com/awaisrajoka1?s=21&t=NTXVPKtbFeDMfEgRxiXN1A">
+  <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+<a href="https://wa.me/message/YZ54KCFAYEZ4L1">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+<a href="https://github.com/awaisrajoka">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-![](https://komarev.com/ghpvc/?username=awaisrajoka&color=00FF41&style=flat-square&label=PROFILE+VIEWS)
+<br/><br/>
 
-```
-[SYSTEM] Session complete. Connection encrypted. Until next time. 🔒
-```
+<img src="https://komarev.com/ghpvc/?username=awaisrajoka&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0a0a2e" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0a0a2e,100:0d0d0d&height=120&section=footer" />
